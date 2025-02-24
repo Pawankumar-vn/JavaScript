@@ -1,6 +1,6 @@
 # **JavaScript Basics - Notes & Code for Revision**  
 
-This repository contains notes and code examples on JavaScript fundamentals, organized into 7 days of learning. The notes cover essential JavaScript concepts and methods, helping beginners understand and practice core programming principles. The repository will be updated with more topics as learning progresses.  
+This repository contains notes and code examples on JavaScript fundamentals, organized into 14 days of learning. The notes cover essential JavaScript concepts and methods, helping beginners understand and practice core programming principles. The repository will be updated with more topics as learning progresses.  
 
 ---
 
@@ -64,4 +64,65 @@ This repository contains notes and code examples on JavaScript fundamentals, org
 
 ---
 
+## **Day 8: ES6+ Features (M)**  
+### **Main Topics:**  
+- Destructuring (Arrays & Objects)  
+- Template Strings  
+- Default Parameters  
+- Spread and Rest Operators  
+
+---
+
+## **Day 9: DOM Manipulation (M)**  
+### **Main Topics:**  
+- Selecting Elements (`getElementById()`, `querySelector()`, `querySelectorAll()`)  
+- Modifying Content (`innerText`, `innerHTML`, `textContent`)  
+- Changing Styles (`style.property`)  
+- Adding & Removing Elements (`appendChild()`, `removeChild()`)  
+
+---
+
+## **Day 10: Events & Event Listeners (M)**  
+### **Main Topics:**  
+- Event Listeners (`addEventListener()`)  
+- Event Bubbling & Capturing  
+- Event Delegation  
+- Preventing Default Behavior (`preventDefault()`)  
+
+---
+
+## **Day 11: Callbacks & Higher-Order Functions (H)**  
+### **Main Topics:**  
+- Callbacks (`setTimeout()`, `setInterval()`)  
+- Higher-Order Functions (`map()`, `filter()`, `reduce()`)  
+- Function Composition  
+
+---
+
+## **Day 12: Event Loop & Asynchronous JavaScript (H)**  
+### **Main Topics:**  
+- Understanding the Event Loop  
+- Call Stack & Web APIs  
+- Microtasks vs Macrotasks (`setTimeout`, `Promise.resolve()`)  
+
+---
+
+## **Day 13: Promises & Async/Await (H)**  
+### **Main Topics:**  
+- Understanding Promises (`resolve()`, `reject()`, `.then()`, `.catch()`)  
+- Chaining Promises  
+- Async/Await (`async function`, `await`)  
+- Error Handling (`try...catch`)  
+
+---
+
+## **Day 14: Fetch API & AJAX (M)**  
+### **Main Topics:**  
+- Making API Calls (`fetch()`, `.then()`, `.catch()`)  
+- Handling JSON (`.json()`, `JSON.stringify()`, `JSON.parse()`)  
+- Error Handling in API Calls  
+
+---
+
 🚀 **More JavaScript topics will be added as learning continues!**  
+
